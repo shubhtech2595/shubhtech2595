@@ -4,7 +4,7 @@
 # 💫 About Me:
 🎯Software Development Engineer | Web Developer | Mobile Developer<br>🌟Passionate about building scalable applications, deploying cloud-native solutions, and designing secure, reliable network infrastructures.<br>🔹Software Developer with expertise in Web & Mobile.<br>🔹 I love solving real-world problems using modern technologies and automation.<br>🤝 Open to AI collaborations and innovative projects,<br>🎯 Expanding expertise in Back-End development and system architecture,<br>🌟 Passionate about UI/UX Design, always ready to discuss the latest trends,<br>🏍️ Avid motorbike enthusiast with a love for design and engineering,<br>📧 Reach me at sid786112@gmail.com for project collaborations or tech talks,<br>⚡ Fun fact: Obsessed with optimizing processes, whether it's in code or on the road.<br> 🌐Software Developer | Cloud & Network Engineer<br>      Building scalable and secure digital solutions.<br> 🌐 Socials:
 
-<img align="right"alt="coding"width="400"src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right"alt="coding"width="400"src="https://tse2.mm.bing.net/th/id/OIP.nWQ_U5NKEfNeGCTfh_2-MwHaEq?pid=Api&h=220&P=0"
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/er_shubham_kumar_s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kumar-69958232a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sid786112@gmail.com) 
