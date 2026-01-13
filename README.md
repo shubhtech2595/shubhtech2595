@@ -1,11 +1,10 @@
 ![logo](https://github.com/shubhtech2595/shubhtech2595/blob/main/68747470733a2f2f692e696d6775722e636f6d2f577a35414a52592e676966.gif)
 <h1 align="center">Hi, I'm Shubham 👋
-<h3 align="center">A Passionate Software Engineer From India</h3>
+<h3 align="center">A Passionate Software Developer Engineer From India</h3>
 # 💫 About Me:
-🎯Software Development Engineer | Web Developer | Mobile Developer<br>🌟Passionate about building scalable applications, deploying cloud-native solutions, and designing secure, reliable network infrastructures.<br>🔹Software Developer with expertise in Web & Mobile.<br>🔹 I love solving real-world problems using modern technologies and automation.<br>🤝 Open to AI collaborations and innovative projects,<br>🎯 Expanding expertise in Back-End development and system architecture,<br>🌟 Passionate about UI/UX Design, always ready to discuss the latest trends,<br>🏍️ Avid motorbike enthusiast with a love for design and engineering,<br>📧 Reach me at sid786112@gmail.com for project collaborations or tech talks,<br>⚡ Fun fact: Obsessed with optimizing processes, whether it's in code or on the road.<br> 🌐Software Developer | Cloud & Network Engineer<br>      Building scalable and secure digital solutions.<br> 
-
-
-<img align="right" alt="coding" width="400" height="320" alt="image" src="https://github.com/user-attachments/assets/b2180634-3c5a-468a-9833-33af2417d02e">
+🎯Software Development Engineer | Web Developer | Mobile Developer<br>🌟Passionate about building scalable applications, deploying cloud-native solutions, and designing secure, reliable network infrastructures.<br>🔹Software Developer with expertise in Web & Mobile.<br>🔹 I love solving real-world problems using modern technologies and automation.<br>🤝 Open to AI collaborations and innovative projects,<br>🎯 Expanding expertise in Back-End development and system architecture,<br>🌟 Passionate about UI/UX Design, always ready to discuss the latest trends,<br>🏍️ Avid motorbike enthusiast with a love for design and engineering,<br>📧 Reach me at sid786112@gmail.com for project collaborations or tech talks,<br>⚡ Fun fact: Obsessed with optimizing processes, whether it's in code or on the road.<br> 🌐Software Developer | Cloud & Network Engineer<br> Building scalable and secure digital solutions.<br>
+  
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/a69b8475-f433-435b-bdf3-3fd50cd855ab" />
 
 
 ## 🌐 Socials:
