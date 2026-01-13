@@ -6,8 +6,7 @@
 🎯Software Development Engineer | Web Developer | Mobile Developer<br>🌟Passionate about building scalable applications, deploying cloud-native solutions, and designing secure, reliable network infrastructures.<br>🔹Software Developer with expertise in Web & Mobile.<br>🔹 I love solving real-world problems using modern technologies and automation.<br>🤝 Open to AI collaborations and innovative projects,<br>🎯 Expanding expertise in Back-End development and system architecture,<br>🌟 Passionate about UI/UX Design, always ready to discuss the latest trends,<br>🏍️ Avid motorbike enthusiast with a love for design and engineering,<br>📧 Reach me at sid786112@gmail.com for project collaborations or tech talks,<br>⚡ Fun fact: Obsessed with optimizing processes, whether it's in code or on the road.<br> 🌐Software Developer | Web  & Mobile Developer <br> Building scalable and secure digital solutions.<br>
 
 
-  
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/a69b8475-f433-435b-bdf3-3fd50cd855ab" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/b7c0672f-89f8-4489-b14b-bee18092971e" />
 
 
 
