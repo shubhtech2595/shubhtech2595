@@ -1,3 +1,4 @@
+![logo](https://github.com/shubhtech2595/shubhtech2595/blob/main/68747470733a2f2f692e696d6775722e636f6d2f577a35414a52592e676966.gif)
 # 💫 About Me:
 ## 👋 Hi, I'm Shubham Kumar<br><br>I'm a **Full Stack Software Developer** passionate about building scalable web and mobile applications using **ASP.NET Core, C#, React, Node.js, MERN Stack, and React Native**. I enjoy learning new technologies, solving real-world problems, and writing clean, efficient, and maintainable code.<br>
 
